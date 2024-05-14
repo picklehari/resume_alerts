@@ -1,4 +1,4 @@
-**README for Job Matching and SMS Alert System**
+**README**
 =====================================================
 
 Overview

@@ -37,7 +37,7 @@ Replace the placeholders in the code with your actual parameters for Twilio and 
 If using in local mode. Comment the necessary sections in the `resume_alerts.py` file. Additionally, you would have to setup `ollama` and pull the `llama3` model.
 
 - Ollama can be downloaded by clicking [here](https://ollama.com/download)
-- llama3 can be setup by running by `ollama run llama3`
+- llama3 can be setup by running by `ollama pull llama3`
 
 ### Run the Code
 

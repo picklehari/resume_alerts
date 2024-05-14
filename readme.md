@@ -19,16 +19,16 @@ Extracts text content from a PDF resume file for comparison with job description
 
 ### Job-Resume Comparison
 
-Evaluates the applicability of the resume for each job by comparing the resume content with the job description and generating an applicability score out of 10.
+Evaluate the resume's applicability for each job by comparing the resume content with the job description and generating an applicability score out of 10.
 
 ### SMS Alert Generation
 
-Drafts SMS messages notifying about new job openings that match the resume, keeping the message concise and without specifying application links.
+Drafts SMS messages notifying about new job openings that match the resume, specifying links to apply and how well the job matches your resume.
 
 Usage
 -----
 ## Make a .env file using the .env_example as a Template
-Replace the placeholders in the code with your actual parameters for Twilio and Mistral along side path to your resume.
+Replace the placeholders in the code with your actual parameters for Twilio and Mistral along the path to your resume.
 
 - `Twilio` : You may find the authentication tokens [here](https://www.twilio.com/console/runtime/api-keys) and phone numbers [here](https://www.twilio.com/try-twilio)
 - `Mistral` : You can create api keys [here](https://console.mistral.ai/api-keys/)

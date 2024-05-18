@@ -4,7 +4,7 @@
 Overview
 --------
 
-The code provided is a comprehensive system designed to monitor job postings from YCombinator Hackernews, compare them against a resume, and generate SMS alerts for potential job opportunities. This system utilizes various libraries and APIs to fetch job postings, extract relevant information from job descriptions and resumes, and assess job applicability based on resume content.
+The tool provided is  designed to monitor job postings from YCombinator Hackernews, compare them against a resume, and generate SMS alerts for potential job opportunities. This system utilizes various libraries and APIs to fetch job postings, extract relevant information from job descriptions and resumes, and assess job applicability based on resume content.
 
 # Functionality
 -------------
